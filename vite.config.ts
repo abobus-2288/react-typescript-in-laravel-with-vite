@@ -8,7 +8,6 @@ export default defineConfig({
 		laravel({
 
         }),
-        viteReact(),
         reactRefresh()
 	],
 })
